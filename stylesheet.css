@@ -1,0 +1,56 @@
+.navbar-brand {
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-size: 100px;
+}
+
+.navbar-nav {
+    font-size: 20px;
+    margin-top: 5px
+}
+
+.bg-light {
+    background-color: violet;
+}
+
+body {
+    background-color: gray;
+}
+
+.col-md-4 {
+    color: rgb(252, 252, 252);
+    margin-top: 50px;
+}
+
+.col-md-8 {
+    background-color: gray;
+    margin-top: 50px;
+    color: rgb(252, 252, 252);
+}
+
+.col-md-12 {
+    color: rgb(252, 252, 252);
+    margin-top: 50px;
+}
+p   {
+    font-size: 20px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.row-cols-2 {
+    margin-top: 10px;
+    background-color: gray;
+}
+
+.col {
+    background-color: gray;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
